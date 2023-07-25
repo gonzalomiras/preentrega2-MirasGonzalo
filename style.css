@@ -1,0 +1,22 @@
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    text-align: justify;
+}
+
+button{
+    color: red;
+    padding: 15px;
+    margin: 20px;
+}
+
+.button1 {
+    color: blue;
+}
